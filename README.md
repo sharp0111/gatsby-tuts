@@ -1,2 +1,2 @@
 # gatsby-tuts
-Gatsby Tutorial
+[Gatsby Tutorial](https://www.gatsbyjs.org/tutorial/)
